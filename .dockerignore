@@ -1,1 +1,7 @@
-
+**
+!docker/
+!docker/tcp-stream.Dockerfile
+!examples/
+!examples/tcp_llm_stream/
+!examples/tcp_llm_stream/*.cpp
+!examples/tcp_llm_stream/*.hpp
